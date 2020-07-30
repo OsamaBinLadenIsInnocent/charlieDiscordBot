@@ -1,0 +1,27 @@
+{
+  "name": "package",
+  "version": "1.0.0",
+  "description": "aaaaaaaaaa",
+  "main": "bot.js",
+  "type": "commonjs",
+  "keywords": [
+    "none"
+  ],
+  "scripts": {
+    "start": "node ./bot.js"
+  },
+  "author": "backphallus",
+  "license": "me",
+  "repository": {
+    "type": "git",
+    "url": "none"
+  },
+  "dependencies": {
+    "discord.io": "https://github.com/woor/discord.io/tarball/gateway_v6",
+    "mongoose": "^5.9.26",
+    "winston": "^3.3.3"
+  },
+  "devDependencies": {
+    "none": "^1.0.0"
+  }
+}
